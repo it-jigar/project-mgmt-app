@@ -1,3 +1,7 @@
+// API Created.
+// View --> Project, Client, All Projects, All Client,
+// Data -->   a. Able to create client, project.
+//            b. Update project, delete project, delete client.
 // Mongoose models
 const Project = require('../models/Project')
 const Client = require('../models/Client')
